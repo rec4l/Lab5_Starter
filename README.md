@@ -6,3 +6,7 @@ Jonathan Nguyen
 1. I am doubtful this is useful because messaging is more complicated and difficult to encapsulate intended behavior within a unit test. It also is meant to work in cases of varying connection and devices, which unit testing likely can't encompass easily.
 
 2. Yes, this is easy to test and isn't reliant on factors listed in question 1.
+
+Links:
+[explore.html](https://rec4l.github.io/Lab5_Starter/explore.html)
+[expose.html](https://rec4l.github.io/Lab5_Starter/expose.html)
