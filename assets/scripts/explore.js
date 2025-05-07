@@ -22,7 +22,6 @@ function init() {
     });
   }
 
-  // Ensure voices are loaded before populating the dropdown
   speechSynthesis.onvoiceschanged = populateVoices;
   populateVoices();
 

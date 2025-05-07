@@ -70,7 +70,7 @@ function init() {
 
   });
   hornAudio.addEventListener('ended', function() {
-    hornAudio.currentTime = 0; // Reset to the beginning after playing
+    hornAudio.currentTime = 0;
   });
   
 
